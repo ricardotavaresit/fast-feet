@@ -120,7 +120,7 @@ Quando uma encomenda for cancelada, o entregador deve receber um e-mail informan
 Tecnologies:
 - NodeJS;
 - Express;
--JavaScript
+- JavaScript;
 
 DataBases:
 - PostgreSQL
