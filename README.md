@@ -11,9 +11,6 @@
 </h3>
 
 <p>Esse desafio faz parte do Desafio Final, que é uma aplicação completa (Back-end, Front-end e Mobile) que é avaliada para emissão do Certificado do Bootcamp GoStack, por isso é fundamental que ele seja feito com muito empenho!</p>
-
-<blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
-
  
 
 <p align="center">
@@ -118,19 +115,7 @@ Crie uma rota para a distribuidora cancelar uma entrega baseado no ID do problem
 Exemplo de requisição: `DELETE https://fastfeet.com/problem/1/cancel-delivery`
 
 Quando uma encomenda for cancelada, o entregador deve receber um e-mail informando-o sobre o cancelamento.
-
-## **📅 Entrega**
-
-Esse desafio **não precisa ser entregue** e não receberá correção. Além disso, o código fonte **não está disponível** por fazer parte do **desafio final**, que será corrigido para **certificação** do bootcamp. Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
-
-## **📝 Licença**
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rocketseat/bootcamp-gostack-desafio-03/blob/master/LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat 👋 [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
+ 
 ## :computer: Tecnologias Utilizadas
 FRONT-END:
 - HTML
