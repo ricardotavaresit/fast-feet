@@ -116,18 +116,15 @@ Exemplo de requisição: `DELETE https://fastfeet.com/problem/1/cancel-delivery
 
 Quando uma encomenda for cancelada, o entregador deve receber um e-mail informando-o sobre o cancelamento.
  
-## :computer: Tecnologias Utilizadas
-FRONT-END:
-- HTML
-- CSS
-- JavaScript
-- Nunjucks
+## :computer: Tecnologies and dependencies used
+Tecnologies:
+- NodeJS;
+- Express;
+-JavaScript
 
-BACK-END:
-- NodeJS
-- Express
-- Method Override
-
-BANCO DE DADOS:
+DataBases:
 - PostgreSQL
+
+Dependencies:
+   
  
