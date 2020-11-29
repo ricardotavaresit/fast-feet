@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Sobre o desafio
@@ -116,7 +116,7 @@ Exemplo de requisição: `DELETE https://fastfeet.com/problem/1/cancel-delivery
 Quando uma encomenda for cancelada, o entregador deve receber um e-mail informando-o sobre o cancelamento.
  
 
-## :tecnologias Tecnologies and dependencies used
+## :computer: Tecnologias Utilizadas
 Tecnologies:
 - NodeJS;
 - Express;
