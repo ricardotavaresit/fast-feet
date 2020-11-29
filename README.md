@@ -125,5 +125,11 @@ DataBases:
 - PostgreSQL
 
 Dependencies:
-
+- bcryptjs;
+- dotenv;
+- express;
+- jsonwebtoken;
+- pg;
+- sequelize;
+- yup;
  
