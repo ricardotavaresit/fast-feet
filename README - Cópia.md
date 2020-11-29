@@ -142,19 +142,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.
 ---
 
 Feito com ♥ by Rocketseat 👋 [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
-## :computer: Tecnologias Utilizadas
-FRONT-END:
-- HTML
-- CSS
-- JavaScript
-- Nunjucks
-
-BACK-END:
-- NodeJS
-- Express
-- Method Override
-
-BANCO DE DADOS:
-- PostgreSQL
- 
