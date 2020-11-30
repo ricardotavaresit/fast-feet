@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Desafio 3: FastFeet, continuando a aplicação
+  Desafio 2: FastFeet, o início
 </h3>
 
 <h3 align="center">
-  :warning: Etapa 2/4 do Desafio Final :warning:
+  :warning: Etapa 1/4 do Desafio Final :warning:
 </h3>
 
 <p>Esse desafio faz parte do Desafio Final, que é uma aplicação completa (Back-end, Front-end e Mobile) que é avaliada para emissão do Certificado do Bootcamp GoStack, por isso é fundamental que ele seja feito com muito empenho!</p>
@@ -19,7 +19,9 @@
 
 ## :rocket: Sobre o desafio
 
-Durante esse desafio vamos aprimorar a aplicação FastFeet que demos início no desafio anterior implementando funcionalidades que aprendemos durante as aulas até agora. 
+A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app para uma transportadora fictícia, o FastFeet.
+
+Nesse primeiro desafio vamos criar algumas funcionalidades básicas que aprendemos ao longo das aulas até aqui. Esse projeto será desenvolvido aos poucos até o fim da sua jornada onde você terá uma aplicação completa envolvendo back-end, front-end e mobile, que será utilizada para a certificação do bootcamp, então, bora pro código!
 
 ### **Funcionalidades do administrador**
 
